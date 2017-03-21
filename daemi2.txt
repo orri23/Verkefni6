@@ -1,0 +1,36 @@
+Kristófer Orri
+VEF2A - Verkefni 6 - Dæmi 2
+
+a. 
+
+{"order":[
+  { "crust_type":"Orginal" },
+  { "topping_1":"Cheese" },
+  { "topping_2":"Pepperoni" },
+  { "topping_3":"Garlic" },
+  { "status": "Cooking" },
+  { "customer_name": "Kristófer Orri" },
+  { "customer_phone": "7754675" }
+
+]}
+
+
+b.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+<body>Our pizza is the best pizza</body>
+</note>
+ <order>
+  <crust_type>orginal</crust_type>
+  <toppings>
+    <topping>cheese</topping>
+    <topping>pepperoni</topping>
+    <topping>garlic</topping>
+  </toppings>
+<status>cooking</status>
+  <customer_information>
+    <name>Kristófer Orri</name>
+    <phone>7754675</phone>
+  </customer_information> 
+</order> 
